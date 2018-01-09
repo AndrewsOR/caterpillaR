@@ -1,0 +1,7 @@
+Monday:    apple
+Tuesday:   pear            |  pear
+Wednesday: plum            |  plum           |  plum
+Thursday:  strawberry      |  strawberry     |  strawberry |  strawberry
+Friday:    orange          |  orange         |  orange     |  orange        | orange
+Saturday:  chocolate cake  |  ice cream cone |  pickle     |  swiss cheese  | salami  | lollipop  | cherry pie  | sausage  | cupcake  | watermelon
+Sunday:    nice green leaf
