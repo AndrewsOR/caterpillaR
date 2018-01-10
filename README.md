@@ -1,7 +1,7 @@
 # caterpillaR
 For the upcoming Career Day at my children's school.  
 
-Because children are the future, and if we don't teach them well, they'll get stuck on `dplyr` or *(shudder)* `pandas` and `matplotlib`.
+Because children are the future, and if we don't teach them well, they'll end up hooked on `dplyr` or *(shudder)* `pandas` and `matplotlib`.
 
 
 ![Caterpillar](https://github.com/AndrewsOR/caterpillaR/blob/master/caterplot.jpg)
